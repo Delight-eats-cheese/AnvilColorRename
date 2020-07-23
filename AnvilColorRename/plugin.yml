@@ -1,0 +1,10 @@
+name: AnvilColorRename
+main: com.delight.anvilcolorrename.Main
+version: 1.0
+author:
+description:
+commands:
+permissions:
+    anvilcolorrename.use:
+        description: Ability to use Color- and Formatting codes in anvils
+        
